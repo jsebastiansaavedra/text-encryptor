@@ -10,7 +10,7 @@ Welcome to the **Text Encryptor Web Application**! This project is a simple yet 
 - **Lightweight**: No external libraries, purely vanilla HTML, CSS, and JavaScript.
 
 ## 🌟 Try it!
-Check out the live demo [here](#).
+Check out the live demo [here](https://jsebastiansaavedra.github.io/text-encryptor/).
 
 ## 📸 Screenshots
 
