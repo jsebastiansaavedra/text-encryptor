@@ -10,7 +10,7 @@ Welcome to the **Text Encryptor Web Application**! This project is a simple yet 
 - **Lightweight**: No external libraries, purely vanilla HTML, CSS, and JavaScript.
 
 ## 🌟 Try it!
-Check out the live demo [here](#){:target="_blank" rel="noopener noreferrer"}.
+Check out the live demo [here](#).
 
 ## 📸 Screenshots
 
@@ -97,13 +97,13 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE){:target="_blank" rel="noopener noreferrer"} file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🧑‍💻 Author
 
 **Your Name**
-- [GitHub](https://github.com/jsebastiansaavedra){:target="_blank" rel="noopener noreferrer"}
-- [LinkedIn](https://www.linkedin.com/in/jsebastiansaavedra/){:target="_blank" rel="noopener noreferrer"}
+- [GitHub](https://github.com/jsebastiansaavedra)
+- [LinkedIn](https://www.linkedin.com/in/jsebastiansaavedra/)
 
 ## 🎉 Acknowledgements
 
