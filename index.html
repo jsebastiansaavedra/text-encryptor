@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Encryptor</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <hearder class="header">
+        <img src="assets/Logo.png" />
+    </hearder>
+
+    <main class="main-content">
+        <section class="text__encryptor">
+            <textarea name="text__to__encrypt" id="text__to__encrypt" placeholder="Insert the text here"></textarea>
+            <br>
+            <label class="text__encryptor__conditions"><img class="text__encryptor__conditions__img" src="assets/Vector.png" />  Only lowercase letters and no accents</label>
+            <div class="encrypt__decrypt__buttons">
+                <button onclick="encryptText();" class="encrypt__button accent__button">Encrypt</button>
+                <button onclick="decryptText();" class="decrypt__button clear__button">Decrypt</button>
+            </div>
+        </section>
+        <section class="encryptor__result">
+            <div class="encryptor__result__info__container">
+                <p class="text__result" id="text__result"></p> 
+                <div id="no__message__group">
+                    <img class="img__result" src="assets/Result_Image.png" />
+                    <h2 class="no__message__result">No message was found</h2>
+                    <label class="enter__text__message__result">Enter the text you want to encrypt or decrypt.</label>
+                </div>
+            </div>
+            <div class="encryptor__result__button__container" id="encryptor__result__button__container">
+                <button onclick="copyResult();" class="copy__result__button clear__button" id="copy__result__button">Copy</button>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <p>Developed by Juan Saavedra. 2024</p>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
