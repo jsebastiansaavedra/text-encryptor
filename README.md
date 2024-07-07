@@ -80,25 +80,28 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 2. **Create a feature branch**
    ```bash
    git checkout -b feature/AmazingFeature
-Commit your changes
-bash
-Copiar código
-git commit -m 'Add some AmazingFeature'
-Push to the branch
-bash
-Copiar código
-git push origin feature/AmazingFeature
-Open a pull request
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+   ```
+3. **Commit your changes**
+   ```bash
+   git commit -m 'Add some AmazingFeature'
+   ```
+4. **Push to the branch**
+   ```bash
+   git push origin feature/AmazingFeature
+   ```
+5. **Open a pull request**
 
-🧑‍💻 Author
-Juan Sebastian Saavedra Alvarez
+## 📄 License
 
-[GitHub](https://github.com/jsebastiansaavedra)
-[LinkedIn](https://www.linkedin.com/in/jsebastiansaavedra/)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-LinkedIn
-🎉 Acknowledgements
+## 🧑‍💻 Author
+
+**Your Name**
+- [GitHub](https://github.com/jsebastiansaavedra)
+- [LinkedIn](https://www.linkedin.com/in/jsebastiansaavedra/)
+
+## 🎉 Acknowledgements
+
 Special thanks to Alura Latam who inspired this project!
 
