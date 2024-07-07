@@ -102,8 +102,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE){:tar
 ## 🧑‍💻 Author
 
 **Your Name**
-- [GitHub](https://github.com/jsebastiansaavedra){:target="_blank" rel="noopener noreferrer"}
-- <a href="https://github.com/jsebastiansaavedra" target="_blank">[GitHub]</a>
+- <a href="https://github.com/jsebastiansaavedra" target="_blank">GitHub</a>
 - [LinkedIn](https://www.linkedin.com/in/jsebastiansaavedra/){:target="_blank" rel="noopener noreferrer"}
 
 ## 🎉 Acknowledgements
