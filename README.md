@@ -29,48 +29,44 @@ To run this project locally, follow these steps:
 
 **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/text-encryptor.git
+   git clone https://github.com/jsebastiansaavedra/text-encryptor.git
    ```
-```bash
-Copiar código
-git clone https://github.com/yourusername/text-encryptor.git
-```
-Navigate to the project directory
 
-bash
-Copiar código
-cd text-encryptor
-Open index.html in your preferred browser
+**Navigate to the project directory**
+   ```bash
+   cd text-encryptor
+   ```
 
-bash
-Copiar código
-open index.html
+**Open index.html in your preferred browser**
+   ```bash
+   open index.html
+   ```
 
 ## 🔍 How It Works
 
 The encryption works by replacing vowels in the text with specific characters:
-- `a` ➡️ `@`
-- `e` ➡️ `3`
-- `i` ➡️ `!`
-- `o` ➡️ `0`
-- `u` ➡️ `^`
+- `a` ➡️ `ai`
+- `e` ➡️ `enter`
+- `i` ➡️ `imes`
+- `o` ➡️ `ober`
+- `u` ➡️ `ufat`
 
 The decryption process reverses these replacements.
 
 ## 📂 Project Structure
-arduino
-Copiar código
-text-encryptor/
-├── assets/
-│   └── Logo.png
-│   └── Result_image.png
-│   └── Vector.png
-├── css/
-│   └── style.css
-├── js/
-│   └── app.js
-├── index.html
-└── README.md
+   ```arduino
+      text-encryptor/
+      ├── assets/
+      │   └── Logo.png
+      │   └── Result_image.png
+      │   └── Vector.png
+      ├── css/
+      │   └── style.css
+      ├── js/
+      │   └── app.js
+      ├── index.html
+      └── README.md
+   ```
 - **index.html**: The main HTML file.
 - **css/style.css**: The CSS file for styling.
 - **js/app.js**: The JavaScript file for encryption and decryption logic.
