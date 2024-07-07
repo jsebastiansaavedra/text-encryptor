@@ -77,18 +77,22 @@ The decryption process reverses these replacements.
 Contributions are welcome! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 1. **Fork the repository**
+
 2. **Create a feature branch**
    ```bash
    git checkout -b feature/AmazingFeature
    ```
+   
 3. **Commit your changes**
    ```bash
    git commit -m 'Add some AmazingFeature'
    ```
+   
 4. **Push to the branch**
    ```bash
    git push origin feature/AmazingFeature
    ```
+   
 5. **Open a pull request**
 
 ## 📄 License
@@ -99,6 +103,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE){:tar
 
 **Your Name**
 - [GitHub](https://github.com/jsebastiansaavedra){:target="_blank" rel="noopener noreferrer"}
+- <a href="https://github.com/jsebastiansaavedra" target="_blank">[GitHub]</a>
 - [LinkedIn](https://www.linkedin.com/in/jsebastiansaavedra/){:target="_blank" rel="noopener noreferrer"}
 
 ## 🎉 Acknowledgements
