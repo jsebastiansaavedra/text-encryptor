@@ -30,10 +30,11 @@ To run this project locally, follow these steps:
 **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/text-encryptor.git
-
-bash
+   ```
+```bash
 Copiar código
 git clone https://github.com/yourusername/text-encryptor.git
+```
 Navigate to the project directory
 
 bash
